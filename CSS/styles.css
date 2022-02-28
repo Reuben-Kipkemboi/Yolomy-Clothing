@@ -1,4 +1,4 @@
-.logo a img{
+ .logo a img{
     width: 150px;
 }
 .right-navigation a{
@@ -16,17 +16,22 @@
 }
 .text-center{
     color: white;
-    font-size: 10vh;
-    margin-left: 20%;
-}
-.lead{
+    font-size: 8vh;
+    /* margin-left: 20%; */
+} 
+ .lead{
     margin-top: 5%;
     text-align: center;
     color: white;
-    margin-left: 35%;
-}
-.col-md-9-mouse img{
-    margin-left: -45%;
+} 
+.col-md-12-mouse img{
     margin-bottom: -30%;
 
+}
+.container-fluid-products .row-products{
+    background-color: rgb(198, 191, 165);
+
+}
+.btn{
+    background-color: rgb(102, 27, 14);
 }
