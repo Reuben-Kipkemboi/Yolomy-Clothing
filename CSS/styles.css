@@ -9,6 +9,7 @@
 .container-fluid{
     background-image: url('/IMAGES/background/hero.jpg');
     position: relative;
+    height: 132vh;
 }
 .row-section2{
     margin-top: 17%;
@@ -23,4 +24,9 @@
     text-align: center;
     color: white;
     margin-left: 35%;
+}
+.col-md-9-mouse img{
+    margin-left: -45%;
+    margin-bottom: -30%;
+
 }
